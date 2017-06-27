@@ -2,4 +2,7 @@ rfkj
 rgbj
 242
 545
-
+yes 
+yes 
+yes
+yes
