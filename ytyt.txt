@@ -1,8 +1,0 @@
-rfkj
-rgbj
-242
-545
-yes 
-yes 
-no
-no
